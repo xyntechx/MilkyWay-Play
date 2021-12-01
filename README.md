@@ -1,6 +1,6 @@
 # Play Milky Way
 
-Play Milky Way on your browser by clicking [here](https://xyntechx.github.io/MilkyWay-Game/)!
+Play Milky Way on your browser by clicking [here](https://xyntechx.github.io/MilkyWay-Play/)!
 
 To view the code for Milky Way, go to [this](https://github.com/xyntechx/MilkyWay) repository!
 
